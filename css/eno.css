@@ -1,0 +1,232 @@
+body{
+    margin:0px;
+    font-family: "Ubuntu", sans-serif;
+}
+
+/***************START OF NAVBAR************/
+.li1{
+
+}
+.navv{
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+}
+nav .ul1 {
+
+}
+.ul1 > li{
+    padding-right: 17px;
+
+}
+
+.nav_head{
+    font-size: 30px;
+    font-weight: 500;
+    color: #5f687b;
+    text-decoration: none;
+    pointer-events: none;
+
+
+}
+
+.btnsuc{
+    border-radius: 16px;
+
+    width: 140px;
+    background-color: #2dc46b;
+    font-size: 14px;
+    border: unset;
+}
+
+
+/***********************END OF NAVBAR*********************************/
+
+
+/*******************start OF SEC1*********************************/
+
+.sec1{
+
+}
+
+.sec1Left{
+    padding-top: 359px;
+}
+.sec1all{
+
+}
+.sec1Left h2{
+    font-size: 50px;
+    color: #5f687b;
+}
+.sec1Left p{
+    font-size: 20px;
+    color: gray;
+
+}
+.sec1Left button{
+    border-radius: 32px;
+    width: 140px;
+    background-color: #2dc46b;
+    font-size: 16px;
+    border: unset;
+    padding: 10px;
+    font-weight: 100;
+}
+
+.sec1 span{
+    padding-left: 18px;
+    font-size: 17px;
+    color: #504949;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.sec1 span i{
+    color: #2dc46b;
+    font-size: 27px;
+}
+
+.sec1Right{
+
+}
+
+.sec1Right img{
+    width: 624px;
+    padding-top: 130px;
+    animation-duration: 12s;
+    animation-iteration-count:infinite;
+
+
+
+}
+
+/***********************END OF SEC1*********************************/
+
+/*******************start OF SEC2*********************************/
+.sec2{
+    padding-top: 121px;
+}
+.sec2 .col1{
+    background-color: #cecbcb2b;
+    margin-right: 20px;
+    width: 420px;
+    height: 243px;
+    padding-left: 22px;
+    padding-top: 51px;
+
+}
+
+
+
+.sec2 .col1 i{
+    font-size: 35px;
+    color: #2dc46b;
+}
+
+.sec2 .col1 span{
+
+}
+
+.sec2 .col1 h3{
+    padding-top: 10px;
+    font-size: 20px;
+    color: #5f687b;
+}
+
+
+
+.sec2 .col1 p{
+
+}
+
+
+/******************* END OF SEC1*********************************/
+
+/******************* START OF SEC3*********************************/
+.sec3{
+    padding-top: 175px;
+}
+.abt1{
+    text-align: center;
+    color: #f1f0f08a;
+    font-size: 54px;
+
+}
+.p{
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 52px;
+    color: #666161;
+
+}
+
+.abt2{
+
+    position: absolute;
+    right: 694px;
+    top: 1295px;
+    color: #5f687b;
+}
+.sec3all{
+
+}
+.sec3Left img{
+    width: 617px;
+    margin-right: 38px;
+}
+
+#modalbtn{
+    position: absolute;
+    left: 395px;
+    top: 1662px;
+    border: unset;
+    background-color: unset;
+    font-size: 51px;
+    color: #71ef71;
+}
+.sec3Left span i{
+
+}
+
+
+
+.sec3Right{
+
+}
+
+.sec3Right h2{
+    color: #5f687b;
+    font-size: 27px;
+}
+.sec3Right span i{
+    padding-right: 7px;
+    font-size: 20px;
+    color: #2dc46b;
+}
+.sec3Right span {
+    color: #5c616a;
+
+}
+.span3{
+    line-height: 2.5;
+}
+.sec3Right span h5{
+
+}
+.sec3Right p:nth-of-type(1){
+    font-style: italic;
+    color: #5c616a;
+
+}
+
+.sec3Right p:nth-of-type(2){
+    padding-top: 57px;
+    color: #5c616a;
+}
+
+.sec3Right p:nth-of-type(3){
+
+}
+
+/******************* END OF SEC3 *********************************/
+
